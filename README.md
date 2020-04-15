@@ -12,8 +12,8 @@
   pip3 - sudo apt-get install python3-pip
   ```
 ## Step 3:
- Install all the additional packages to run the program
- OpenCV, imutils, numpy, request 
+ Install all the additional packages to run the program:
+ OpenCV, imutils, numpy and request 
   ```
   pip3 install imutils
   pip3 install opencv-python
