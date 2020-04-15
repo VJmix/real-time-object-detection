@@ -13,14 +13,12 @@
   ```
 ## Step 3:
  Install all the additional packages to run the program
+ OpenCV, imutils, numpy, request 
   ```
-  mutils - pip3 install mutils
-
-  OpenCV - pip3 install opencv-python
-
-  numpy - pip3 install numpy
-
-  request - pip3 install request
+  pip3 install imutils
+  pip3 install opencv-python
+  pip3 install numpy
+  pip3 install request
   ```
  OR
 
