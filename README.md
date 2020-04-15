@@ -6,10 +6,10 @@
   git clone https://github.com/VJmix/real-time-object-detection.git
   ```
 ## Step 2:
- Install the basic files
+ Install the basic files: python3, pip3
   ```
-  python3 - sudo apt-get install python3
-  pip3 - sudo apt-get install python3-pip
+  sudo apt-get install python3
+  sudo apt-get install python3-pip
   ```
 ## Step 3:
  Install all the additional packages to run the program:
