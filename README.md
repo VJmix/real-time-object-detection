@@ -35,3 +35,5 @@ There you go. You will get a window with Yolo running in real time.
 
 If there is a problem, contact me.
 
+https://gvkv.herokuapp.com/contact
+
